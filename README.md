@@ -1,4 +1,5 @@
-Teddy Bear Builder 
+**Teddy Bear Builder** 
+--
 A lightweight, dependency free web app to design a custom teddy bear using an interactive SVG. Change colors, parts, accessories, stickers, and pose; save/load builds locally; export to PNG; and get smart styling recommendations.
 
 Features
